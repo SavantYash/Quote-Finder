@@ -5,6 +5,11 @@ Hello Star,
 An Android app built using Kotlin + XML.  
 This repository contains the source code and a downloadable APK.
 
+- Important Note:
+  App is still in beta version. When user luanch app first time, He/She has to click New Quote button.
+  It will load the quotes in local storage.
+  Whenever user want new quote, same button gives you functionallity. It will load new quote but liked & stared one quote stays there.
+
 ---
 
 - Features :
